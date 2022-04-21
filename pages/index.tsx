@@ -116,7 +116,7 @@ const Home: NextPage = () => {
         <h1 css={title}>
           Welcome to <a href="https://nextjs.org">Next.js!</a>
         </h1>
-
+        <h2>use emotion</h2>
         <p css={description}>
           Get started by editing{' '}
           <code css={code}>pages/index.tsx</code>
